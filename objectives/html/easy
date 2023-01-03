@@ -1,0 +1,3 @@
+Correctly setup the ID and class for the wrapping section/div
+Properly structure a single column section using Bootstrap Containers, Rows and Columns containing a heading, paragraph and button.
+Understand when to use container and container-fluid
